@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop",
+    "precio": 1200,
+    "descripcion": "Laptop de alto rendimiento con procesador Intel i7, 16GB RAM y 512GB SSD.",
+    "disponible": true,
+    "fecha_ingreso": "2023-10-01 10:00:00"
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone",
+    "precio": 800,
+    "descripcion": "Smartphone con pantalla AMOLED de 6.5 pulgadas, 128GB de almacenamiento y cámara de 64MP.",
+    "disponible": true,
+    "fecha_ingreso": "2023-10-02 11:30:00"
+  },
+  {
+    "id": 3,
+    "nombre": "Tablet",
+    "precio": 400,
+    "descripcion": "Tablet con pantalla táctil de 10 pulgadas, procesador octa-core y 64GB de almacenamiento.",
+    "disponible": false,
+    "fecha_ingreso": "2023-10-03 09:15:00"
+  },
+  {
+    "id": 4,
+    "nombre": "Smartwatch",
+    "precio": 250,
+    "descripcion": "Smartwatch con monitor de frecuencia cardíaca, GPS y resistencia al agua.",
+    "disponible": false,
+    "fecha_ingreso": "2023-10-04 14:45:00"
+  },
+  {
+    "id": 5,
+    "nombre": "Auriculares Inalámbricos",
+    "precio": 150,
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido y batería de larga duración.",
+    "disponible": true,
+    "fecha_ingreso": "2023-10-05 08:20:00"
+  },
+  {
+    "id": 6,
+    "nombre": "Monitor 4K",
+    "precio": 300,
+    "descripcion": "Monitor 4K de 27 pulgadas con tecnología IPS y tiempo de respuesta de 5ms.",
+    "disponible": true,
+    "fecha_ingreso": "2023-10-06 12:00:00"
+  },
+  {
+    "id": 7,
+    "nombre": "Teclado Mecánico",
+    "precio": 100,
+    "descripcion": "Teclado mecánico retroiluminado con switches mecánicos y diseño ergonómico.",
+    "disponible": true,
+    "fecha_ingreso": "2023-10-07 15:30:00"
+  }
+]
